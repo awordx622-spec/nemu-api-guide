@@ -1,6 +1,6 @@
 # nemu-api-guide
 nemuapi：统一的AI模型API接入与调用示例
-
+注册即送5美元试用金！
 #### 1.1 进入Nemu API的官网创建密钥（[Nemu.mikushop.party](https://nemu.mikushop.party))
 1.打开官网，如下图所示：
 <img width="1544" height="1449" alt="image" src="https://github.com/user-attachments/assets/ec9728d2-1dcc-4f76-9f9d-93b3b59880c5" />
